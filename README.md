@@ -18,6 +18,10 @@ The animation always draws elements in the same order as they are defined in the
 
 There are no dependencies here. All you need to do is include the script, the element you want your text yo be rendered in and call the constructor.
 
+```js
+npm install handwriting.js --save
+```
+
 ```html
 <script type='text/js' src='node_modules/handwriting.js/index.js'></script>
 <div id='my-div'></div>
