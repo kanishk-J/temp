@@ -14324,7 +14324,7 @@ function _interopRequireWildcard(obj) {
 var defaultParams = {
 		inputString: 'Hello',
 		parentElement: 'my-div',
-		fontFile: '/fonts/abc5.otf',
+		fontType: '1',
 		fontSize: 105,
 		fontColor: 'Yellow',
 		animationType: 'oneByOne',
@@ -14346,7 +14346,7 @@ var defaultParams = {
 			' version="1.1" xmlns="http://www.w3.org/2000/svg" id="handwriting_svg"></svg>';
 	},
 	generateSvg = function generateSvg() {
-		opentype.load('/fonts/abc5.otf', function(err, font) {
+		opentype.load('/fonts/'+defaultParams.fontType+'.otf', function(err, font) {
 			if (err) {
 				alert('Font could not be loaded: ' + err);
 			} else {

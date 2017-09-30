@@ -1,30 +1,23 @@
 {
-  "name": "handwriting.js",
-  "version": "1.0.0",
-  "description": "Animate your text to handwritten form",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tanveegujral/Handwriting.js.git"
-  },
-  "keywords": [
-    "svg",
-    "animation",
-    "handwriting",
-    "style",
-    "transition",
-    "fonts"
-  ],
-  "author": "Tanvee Gujral <gujraltanvee238@gmail.com> (http://tanveegujral.github.io/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/tanveegujral/Handwriting.js/issues"
-  },
-  "homepage": "https://github.com/tanveegujral/Handwriting.js#readme",
-  "dependencies": {
-    "opentype.js": "0.7.3"
-  }
+	"name": "handwriting.js",
+	"version": "1.0.2",
+	"description": "Animate your text to handwritten form",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tanveegujral/Handwriting.js.git"
+	},
+	"keywords": ["svg", "animation", "handwriting", "style", "transition", "fonts"],
+	"author": "Tanvee Gujral <gujraltanvee238@gmail.com> (http://tanveegujral.github.io/)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/tanveegujral/Handwriting.js/issues"
+	},
+	"homepage": "https://github.com/tanveegujral/Handwriting.js#readme",
+	"dependencies": {
+		"opentype.js": "0.7.3"
+	}
 }
