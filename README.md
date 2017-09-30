@@ -1,4 +1,4 @@
-![Handwriting.js](assets/logo2.png)
+![Handwriting.js](assets/logo3.png)
 ____________________
 
 Demo abvailable on [www.my_demo_page_here.com](www.my_demo_page_here.com).
